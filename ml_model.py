@@ -10,3 +10,4 @@ def model3():
     print("adding code for model 3")
 
 print("model 3 is best")
+print("testing the conflict")
